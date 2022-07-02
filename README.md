@@ -4,7 +4,7 @@ I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionat
 My hobby is watching **Blackpink**  songs and reading **Web Comics**. 
 - ⚡ Fun fact: I can speak three languages and tiny bit Japanease (currently learning).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ThakurSaad=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThakurSaad)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ThakurSaad/ThakurSaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
