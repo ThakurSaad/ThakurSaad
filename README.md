@@ -7,6 +7,8 @@ I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionat
 - 🖤 **Hobbies:**   Watching **Blackpink**  songs and reading **Web Comics**. 
 - ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currently learning).
 
+<img align="left" width="100" height="100" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/coding.gif">
+
 ### ⚙ Skills 
 - **Language** &nbsp; Javascript.
 - **Frontend** &nbsp;&nbsp; Html5, Css3, React, Bootstrap, Tailwind.
