@@ -29,7 +29,7 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh**. I am a p
 <hr/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThakurSaad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThakurSaad&theme=midnight-purple=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
