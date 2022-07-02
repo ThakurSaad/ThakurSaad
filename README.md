@@ -20,8 +20,8 @@ I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionat
 <br/>
 <br/>
 
-<p align="right" width="50%%">
-    <img height="150"  src="https://github.com/ThakurSaad/ThakurSaad/blob/main/contact.gif">
+<p align="center" width="50%%">
+    <img height="150" align="right" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/contact.gif">
 </p>
 
 ### 📞 Contact me
