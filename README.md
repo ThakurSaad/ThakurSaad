@@ -11,14 +11,13 @@ I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionat
 <hr/>
 <br/>
 <br/>
+
 ### Skills 
 - **Language**  Javascript.
 - **Frontend**  Html5, Css3, React, Bootstrap, Tailwind.
 - **Backend**   Node, Express.
 - **Database**  MongoDB.
 - **Tools**     Github, VS code, Chrome Dev Tool, Firebase, Heroku, Netlify, Figma.
-
-
 <br/>
 <br/>
 <hr/>
