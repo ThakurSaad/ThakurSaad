@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React, Javascript. I am eager about machine learning as its name bombers curiosity to new programmers.
 
-- 🖤 Hobbies: Watching **Blackpink**  songs and reading **Web Comics**. 
-- ⚡ Fun fact: I can speak three languages and tiny bit Japanease (currently learning).
+- 🖤 **Hobbies:**   Watching **Blackpink**  songs and reading **Web Comics**. 
+- ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currently learning).
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThakurSaad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/thakursaad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thakur-saad//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Shadow.Monarch.Saad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/thakursaad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17325120/thakur-saad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-d9488.web.app/)  
 
