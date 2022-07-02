@@ -3,6 +3,14 @@
 <br/>
 <br/>
 I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React, Javascript. I am eager about machine learning as its name bombers curiosity to new programmers.
+<br>
+- 🖤 **Hobbies:**   Watching **Blackpink**  songs and reading **Web Comics**. 
+- ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currently learning).
+<br/>
+<br/>
+<hr/>
+<br/>
+<br/>
 ### Skills 
 - **Language**  Javascript.
 - **Frontend**  Html5, Css3, React, Bootstrap, Tailwind.
@@ -10,8 +18,7 @@ I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionat
 - **Database**  MongoDB.
 - **Tools**     Github, VS code, Chrome Dev Tool, Firebase, Heroku, Netlify, Figma.
 
-- 🖤 **Hobbies:**   Watching **Blackpink**  songs and reading **Web Comics**. 
-- ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currently learning).
+
 <br/>
 <br/>
 <hr/>
