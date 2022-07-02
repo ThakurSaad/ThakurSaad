@@ -1,4 +1,4 @@
-![](https://github.com/ThakurSaad/ThakurSaad/blob/main/github-banner.jpg)
+![](https://github.com/ThakurSaad/ThakurSaad/blob/main/github-banner.png)
 
 I am Fuad Mahmud Thakur Saad based in Brahmanbaria, Bangladesh. I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React, Javascript. I am eager about machine learning as its name bombers curiosity to new programmers.
 
