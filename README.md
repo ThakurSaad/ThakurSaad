@@ -10,7 +10,7 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 <img align="left" width="300" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/coder-1-nobg.gif">
 
 ### ⚙ Skills 
-- **Language** &nbsp; Javascript.
+- **Language** &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#).
 - **Frontend** &nbsp;&nbsp; Html5, Css3, React, Bootstrap, Tailwind.
 - **Backend** &nbsp;&nbsp;&nbsp;  Node, Express.
 - **Database** &nbsp;&nbsp; MongoDB.
