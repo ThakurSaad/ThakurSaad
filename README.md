@@ -12,9 +12,10 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 ### ⚙ Skills 
 - **Language** &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 - **Frontend** &nbsp;&nbsp; Html5, Css3, React, Bootstrap, Tailwind.
+- **Familiar** &nbsp;&nbsp; Redux, Nextjs.
 - **Backend** &nbsp;&nbsp;&nbsp;  Node, Express.
 - **Database** &nbsp;&nbsp; MongoDB.
-- **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Github, VS code, Chrome Dev Tool, Firebase, Heroku, Netlify, Figma.
+- **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Github, VS code, Chrome Dev Tool, Webpack, Firebase, Heroku, Netlify, Figma.
 
 <br/>
 <br/>
