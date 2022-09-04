@@ -31,6 +31,10 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThakurSaad.ThakurSaad)
 
 <br/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThakurSaad&show_icons=true&locale=en&layout=compact" alt="ekramz" />
+
+<br/>
 <hr/>
 <br/>
   
