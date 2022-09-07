@@ -32,11 +32,11 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThakurSaad.ThakurSaad)
 
 <br/>
+<hr/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-<hr/>
 <br/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThakurSaad&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
