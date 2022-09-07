@@ -2,10 +2,11 @@
 <br/>
 <br/>
 <br/>
-I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src="assets/bangladesh.png" width="18"/>. I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React & Javascript. I am eager about machine learning as its name bombers curiosity to new programmers.
+I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src="assets/bangladesh.png" width="18"/>. I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React & Javascript. Also, I have keen interest in backend. I am eager about machine learning as its name bombers curiosity to new programmers.
 <br>
 - 🖤 **Hobbies:**   Watching **Blackpink**  songs and reading **Web Comics**. 
 - ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currently learning).
+- 🌱 I’m currently learning in-depth of Node and MongoDB.
 
 <img align="left" width="300" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/coder-1-nobg.gif">
 
