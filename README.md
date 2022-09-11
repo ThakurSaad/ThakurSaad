@@ -7,6 +7,7 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 - 🖤 **Hobbies:**   Watching **Blackpink**  songs and reading **Web Comics**. 
 - ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currently learning).
 - 🌱 I’m currently learning in-depth of Node and MongoDB.
+- 🌱 I’m currently emerging in <b>Problem Solving</b> - min ~ 1 problem/day. [Leetcode account](https://leetcode.com/thakursaad613/)
 
 <img align="left" width="300" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/coder-1-nobg.gif">
 
