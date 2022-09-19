@@ -7,14 +7,14 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 - 🖤 **Hobbies:**   Watching **Blackpink**  songs and reading **Web Comics**. 
 - ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currently learning).
 - 🌱 I’m currently learning in-depth of Node and MongoDB.
-- 🌱 I’m currently emerging in <b>Problem Solving</b> - min ~ 1 problem/day. [Leetcode account](https://leetcode.com/thakursaad613/)
+- 🌱 I’m currently emerging in <b>Problem Solving</b> - min ~ 1 problem/day. [Leetcode account](https://leetcode.com/thakursaad/)
 
 <img align="left" width="300" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/coder-1-nobg.gif">
 
 ### ⚙ Skills 
 - **Language** &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 - **Frontend** &nbsp;&nbsp; Html5, Css3, React, Bootstrap, Tailwind.
-- **Familiar** &nbsp;&nbsp;&nbsp;&nbsp; Redux, Nextjs.
+- **Familiar** &nbsp;&nbsp;&nbsp;&nbsp; Redux, Nextjs, MVC
 - **Backend** &nbsp;&nbsp;&nbsp;  Node, Express.
 - **Database** &nbsp;&nbsp; MongoDB.
 - **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Github, VS code, Chrome Dev Tool, Firebase, Heroku, Netlify, Figma.
