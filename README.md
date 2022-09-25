@@ -32,6 +32,8 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThakurSaad.ThakurSaad)
 
+![](https://komarev.com/ghpvc/?username=ThakurSaad&style=for-the-badge)
+
 <br/>
 <hr/>
 <br/>
