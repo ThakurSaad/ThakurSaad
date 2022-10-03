@@ -17,7 +17,7 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 - **Familiar** &nbsp;&nbsp;&nbsp;&nbsp; Redux, Nextjs.
 - **Backend** &nbsp;&nbsp;&nbsp;  Node, Express, MVC, Mongoose.
 - **Database** &nbsp;&nbsp; MongoDB.
-- **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Github, VS code, Chrome Dev Tool, Firebase, Heroku, Netlify, Figma.
+- **Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Github, VS code, Chrome Dev Tool, Postman, Firebase, Heroku, Netlify, Figma, Vercel.
 
 <br/>
 <br/>
