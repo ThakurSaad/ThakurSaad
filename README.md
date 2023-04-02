@@ -45,6 +45,8 @@ I am Fuad Mahmud Thakur Saad based in **Brahmanbaria**, **Bangladesh** <img src=
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThakurSaad&theme=midnight-purple)](https://git.io/streak-stats)
 
+<a href="https://app.daily.dev/ThakurSaad"><img src="https://api.daily.dev/devcards/8fe1549623684d338f367810e33b899c.png?r=8rn" width="400" alt="Thakur Saad's Dev Card"/></a>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
