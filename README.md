@@ -8,7 +8,6 @@ I am a professional Web Developer based in Brahmanbaria, Bangladesh <img src="as
 - 🖤 **Hobbies:**   Watching **Blackpink**  songs, reading **Web Comics** and **Web Novels**. 
 - ⚡ **Fun fact:**  I can speak three languages and tiny bit Japanease (currenlty learning).
 - 🌱 I’m currently learning in-depth of Node and MongoDB.
-- 🌱 I’m currently emerging in <b>Problem Solving</b> - min ~ 1 problem/day. [Leetcode account](https://leetcode.com/thakursaad/)
 
 <img align="left" width="300" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/coder-1-nobg.gif">
 
