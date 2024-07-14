@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <br/>
-I am a professional Web Developer based in Brahmanbaria, Bangladesh <img src="assets/bangladesh.png" width="18"/> specializing in Full Stack Development with React, Node, Express & MongoDB. I have a keen interest in creating engaging user experiences and machine learning. My committment is to expand my skillset and staying up-to-date with the latest technologies. I'm confident that my dedication and expertise make me a valuable asset to any project.
+I am a professional Web Developer based in Brahmanbaria, Bangladesh <img src="assets/bangladesh.png" width="18"/> specializing in Full Stack Development with React, Node, Express & MongoDB. I have a keen interest in creating engaging user experiences and machine learning. My committment is to expand my skillset and staying up-to-date with the latest technologies. I'm confident that my dedication and expertise make me a valuable asset to any project
 <br>
 - 📄 [Resume](https://drive.google.com/file/d/1T4PdLGrVrU2gdjTpDZrEAa2znWL_ie8D/view?usp=sharing)
 - 🖤 **Hobbies:**   Watching **Blackpink**  songs, reading **Web Comics** and **Web Novels**. 
