@@ -46,6 +46,7 @@ I am a professional Web Developer based in Brahmanbaria, Bangladesh <img src="as
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ThakurSaad/ThakurSaad/blob/main/devcard.svg" width="400" alt="Thakur Saad's Dev Card"/></a>
 
+
 <!--
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
