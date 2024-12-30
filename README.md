@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ThakurSaad&style=for-the-badge)
 ![](https://github.com/ThakurSaad/ThakurSaad/blob/main/github-banner.png)
 <br/>
 <br/>
@@ -31,8 +32,6 @@ I am a professional Web Developer based in Brahmanbaria, Bangladesh <img src="as
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ThakurSaad.ThakurSaad)
-
-![](https://komarev.com/ghpvc/?username=ThakurSaad&style=for-the-badge)
 
 <br/>
 <hr/>
