@@ -13,7 +13,7 @@ I am a professional Web Developer based in Brahmanbaria, Bangladesh <img src="as
 <img align="left" width="300" src="https://github.com/ThakurSaad/ThakurSaad/blob/main/coder-1-nobg.gif">
 
 ### ⚙ Skills 
-- **Language** &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![C Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+- **Language** &nbsp; [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 - **Frontend** &nbsp;&nbsp; Html5, Css3, React, Bootstrap, Tailwind.
 - **Familiar** &nbsp;&nbsp;&nbsp;&nbsp; Redux, Nextjs.
 - **Backend** &nbsp;&nbsp;&nbsp;  Node, Express, MVC, Mongoose.
